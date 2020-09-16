@@ -1,5 +1,4 @@
 # Predicting Fradulent Job Postings Using Naive Bayes Classification
-
 Class: ISDS 7070
 
 Authors: Youssuf Elnoamany, Arielle Laurent, Leopold Marx, Christopher O’Brien, and Luke Willson
