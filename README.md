@@ -1,4 +1,4 @@
-# Fradulent-Job-Postings-ISDS-7070-
+# Predicting Fradulent Job Postings Using Naive Bayes Classification
 
 Class: ISDS 7070
 
